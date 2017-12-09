@@ -1,5 +1,10 @@
 test
 bon je viens de modifier
 et alors
+<<<<<<< HEAD
 et ce coup ci?
 c'est Joel.imbert
+=======
+et cecoup ci?
+ici c'est jimbert
+>>>>>>> 00b516bbfba67869f23079fab74b4cc97ed106e7
